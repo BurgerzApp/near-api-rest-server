@@ -2,3 +2,5 @@
 node_modules/
 package-lock.json
 near-api-server.config.json
+examples/
+contracts/
